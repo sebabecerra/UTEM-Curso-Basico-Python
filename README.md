@@ -1,5 +1,5 @@
 # Curso Basico Python
-Curso Practico Basico para CMF
+Curso Practico Basico UTEM
 
 ## ¿Para Quién es Este Curso?
 
